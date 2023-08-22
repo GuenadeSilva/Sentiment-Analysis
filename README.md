@@ -12,9 +12,9 @@ The data for this project was obtained by scraping employee reviews from Indeed 
 
 ### Options
 
-**Website:** The data was pulled from the website directly and saved it into a CSV file
+**[Website:](Scrapper/website_collect.ipynb)** The data was pulled from the website directly and saved it into a CSV file
 
-**HTML:** Since HTML is constantly also included a version that pulls from HTML saved from the website at the time
+**[HTML:](Scrapper/html_collect.ipynb)** Since HTML is constantly also included a version that pulls from HTML saved from the website at the time
 
 ## Data Preprocessing
 
